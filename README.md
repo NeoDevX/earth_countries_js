@@ -1,5 +1,4 @@
 /* earth_countries_js
-/* Earth - Countries Json 
 
 /* Offers a comprehensive JSON file containing all Countries.
 
